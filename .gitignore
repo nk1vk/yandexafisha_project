@@ -1,0 +1,10 @@
+#Python
+__pycache_/
+* .рус
+#Jupyter
+.ipynb_checkpoints/
+#Environmentvariables 
+.env
+#macOS
+.DS_Store
+
